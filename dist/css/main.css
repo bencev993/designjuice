@@ -1,7 +1,6 @@
 .navbar .navbar-toggler {
   border-color: #fff;
 }
-
 .navbar .navbar-nav .nav-link {
   color: #fff;
 }
@@ -62,51 +61,62 @@
     padding-left: 6rem !important;
   }
 }
-
 @media screen and (min-width: 768px) {
   .ps-md-10 {
     padding-left: 6rem !important;
   }
-}
 
+  .logo-section {
+    margin-right: 2rem !important;
+  }
+}
 @media screen and (min-width: 992px) {
   .w-lg-75 {
     width: 75% !important;
   }
+
   .pe-lg-16 {
     padding-right: 10rem !important;
   }
+
   .ps-lg-5 {
     padding-left: 3rem !important;
   }
+
   .logo-section {
     margin-left: 0 !important;
-    bottom: -4rem;
   }
 }
-
 @media screen and (min-width: 1200px) {
   .fs-lg-xl {
     font-size: 3.5rem !important;
   }
+
   .px-xl-4_5 {
     padding-left: 2.5rem !important;
     padding-right: 2.5rem !important;
   }
+
   .h-xl-75 {
     height: 75% !important;
   }
+
   .logo-section {
-    width: 75% !important;
+    width: 72% !important;
+    bottom: -4rem;
   }
 }
-
 @media screen and (min-width: 1400px) {
   .ps-xxl-10 {
     padding-left: 6rem !important;
   }
+
   .ps-xxl-20 {
     padding-left: 12rem !important;
   }
 }
-/*# sourceMappingURL=main.css.map */
+@media (orientation: landscape) {
+  .what-we-offer h3 {
+    margin-top: 3rem;
+  }
+}/*# sourceMappingURL=main.css.map */
