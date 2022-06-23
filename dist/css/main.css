@@ -84,7 +84,8 @@
   }
 
   .logo-section {
-    margin-left: 0 !important;
+    margin-left: -3rem !important;
+    bottom: -4rem;
   }
 }
 @media screen and (min-width: 1200px) {
@@ -99,6 +100,10 @@
 
   .h-xl-75 {
     height: 75% !important;
+  }
+
+  .-mt-5 {
+    margin-top: 2rem !important;
   }
 
   .logo-section {
