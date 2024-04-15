@@ -22,12 +22,12 @@
 }
 
 .showcase-bg-image {
-  background: url("/images/bg-images/bg_01.png") no-repeat right bottom/cover;
+  background: url("/designjuice/images/bg-images/bg_01.png") no-repeat right bottom/cover;
   z-index: 20;
 }
 
 .offer-bg-image {
-  background: url("/images/bg-images/bg_06.png") no-repeat left top/cover;
+  background: url("/designjuice/images/bg-images/bg_06.png") no-repeat left top/cover;
 }
 
 .px-10 {
